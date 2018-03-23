@@ -1,10 +1,11 @@
 # autosynthesis
 
-Linux light program cannot be "killed"
+Linux light program can not be "killed"
 
 ## My little production 
 
-* When we send a signal (SIG_XX),process create subroutine and kill hiself rather than be aborted by signal. 
+When we send a signal (SIG_XX),
+process create subroutine and kill himself rather than be aborted by signal. 
 
 ## Unix environment advanced programming  
 
@@ -13,7 +14,7 @@ Linux light program cannot be "killed"
 
 With the help of my teacher Mr.Jiang,I make good use of the two funtions. 
 
-## You can append extra function:
+## You can append extra features:
 
 * int remove(const char *pathname); 
 * int socket(int domain, int type, int protocol);
